@@ -1,5 +1,5 @@
 window.onload = function () {
-    var desc = ["이진솔 얼굴에 여드름 서른마흔다섯개",
+    var desc = [document.getElementById('book1_desc').innterText,
     "수업 재미있다!",
     "쌤 이뻐용!"];
     var index = 0;
