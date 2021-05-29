@@ -52,4 +52,3 @@ leftarrow.onclick = function () {
             })
         }
 }
-
